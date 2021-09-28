@@ -1,0 +1,22 @@
+{
+   // Example of your update file
+  "homepage": "mcreator.net/community",
+   // Download page of your mod
+  "1.16.5": {
+    "BETA1.2.2": "Added experimental compatibility with other mods",
+    "1.2.1": "Bug fixes", 
+    "1.2.0": "Updated to Minecraft version 1.16.5"
+    // List all versions of your mod for the given Minecraft version, along with their changelogs
+  },
+  "1.15.2": {
+    "1.1.2": "New blocks added",
+    "1.1.1": "Added microscopic mushrooms"
+   // You can use several game versions 
+  },
+  "promos": {
+    "1.16.5-latest": "BETA1.2.2",
+    // Declare the latest "bleeding-edge" version of your mod for the given Minecraft version
+    "1.16.5-recommended": "1.2.1",
+    // Declare the latest "stable" version of your mod for the given Minecraft version
+  }
+}

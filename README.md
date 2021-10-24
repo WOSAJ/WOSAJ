@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WOSAJ
 - 👀 I’m interested in Arduino and Minecraft Forge modding
-- 🌱 I’m currently learning Arduino
+- 🌱 I’m currently learning Java
 
 <!---
 WOSAJ/WOSAJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

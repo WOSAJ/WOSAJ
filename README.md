@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @WOSAJ
-- 👀 I’m interested in Arduino and Minecraft Forge modding
-- 🌱 I’m currently learning Java
+> If the code works, then don't touch it, if not, fix it, if you can't fix it, then completely rewrite the code
 
 <!---
 WOSAJ/WOSAJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
